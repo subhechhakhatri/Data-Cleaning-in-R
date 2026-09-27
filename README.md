@@ -14,7 +14,7 @@ This project treats that extract as a real, imperfect dataset: duplicate custome
 | File | Description |
 |---|---|
 | `harborline-crm-data-cleaning.Rmd` | The full R Markdown source: cleaning steps, code, and the reasoning behind each decision. |
-| `harborline-crm-data-cleaning.html` | The knitted report (open this to see the full analysis and output without running any code.) |
+| `index.html` | The knitted report (open this to see the full analysis and output without running any code.) |
 | `Harborline_Customers_RAW.csv` | The raw input: 205 customer records, 12 columns |
 | `output/harborline_customers_clean.csv` | The cleaned, analysis-ready dataset (200 rows). |
 | `output/harborline_data_dictionary.csv` | Column-by-column definitions for the clean file, including which fields were imputed or flagged. |
